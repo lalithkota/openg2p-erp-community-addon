@@ -80,3 +80,4 @@ addon | upgradeable to 14.0 | Apps Site
 [auditlog](auditlog/) | true | [auditlog](https://apps.odoo.com/apps/modules/14.0/auditlog/) 
 [base_currency_iso_4217](base_currency_iso_4217/) | true | [base_currency_iso_4217](https://apps.odoo.com/apps/modules/14.0/base_currency_iso_4217/) 
 [auth_totp](auth_totp/) | false | -- 
+[report_csv](report_csv/) | true | [report_csv](https://apps.odoo.com/apps/modules/14.0/report_csv/) 
