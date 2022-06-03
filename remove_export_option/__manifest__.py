@@ -16,7 +16,7 @@
 {
     'name': 'Remove Export Option',
     'description': 'Remove the \'Export\' option from the \'More\' menu...',
-    'version': '1.0',
+    'version': '1.1',
     'summary': 'A useful module which allows removal of export option easily using the access rights and permissions from the user Settings',
     'license': 'OPL-1',
     'author': 'Kanak Infosystems LLP.',
